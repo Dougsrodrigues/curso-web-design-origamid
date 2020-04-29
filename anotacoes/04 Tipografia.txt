@@ -1,0 +1,49 @@
+https://edgewebfonts.adobe.com/
+http://www.fontsquirrel.com/
+http://www.google.com/fonts/
+http://www.typewolf.com/
+
+
+ * Variáveis tipográficas
+
+  **Tamanho do Tipo (Corpo do texto dependendo da tipografia)
+    -> valores padroes 14px, 16px, 18px
+
+  ** Altura da Linha (Não se aplica quando o tamanho é mt grande)
+    -> 1,5 * Tamanho do Texto
+        1,5 * 14px = 21px
+  
+  ** Largura do Texto
+
+    -> Máximo de 10 / 14 palavras por linha
+
+
+* Escalas tipográficas
+
+  ** Utilize no máximo 6 tamanhos
+  
+  ** Escolha uma escala harmônica
+    -> 11px, 14px, 18px, 24px, 36px, 48px,
+
+  ** Contraste é rei
+    -> não ultilizar tamanhos proximos. ex: 14px 15px
+
+
+* Pareando tipográficas
+
+  ** Contraste é rei
+    -> Não use tipografias parecidas
+
+  ** No máximo 2
+
+  ** Escolha tipos complementares
+    -> Ex: Serifadas para títulos e sem serifas para o corpo do texto
+
+
+* Elementos Hierárquicos
+
+  -> Negrito: Utilizado para destacar palavras importantes
+
+  -> Itálico : Utilizado para citações, títulos de livros/filmes e outros Elementos
+
+  -> Sublinhado: Geralmente utilizado para destacar palavras que possuem link
